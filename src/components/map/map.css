@@ -1,0 +1,11 @@
+#map-container {
+    width: 100vw;
+    height: 100vh;
+
+    margin: 0; 
+    font-family: sans-serif; 
+    overflow: hidden;    
+}
+#map-container .mapboxgl-canvas {
+    position:relative;
+}

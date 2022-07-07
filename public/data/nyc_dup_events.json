@@ -1,0 +1,71 @@
+{
+    "restrictions": {
+        "topic": [
+            "test",
+            "issue_activity",
+            "supply chain",
+            "military non-conflict",
+            "outlier",
+            "collection",
+            "issue activity",
+            "disaster",
+            "radio wave",
+            "refugee",
+            "outbreak",
+            "change detection",
+            "maritime",
+            "energy",
+            "conflict"
+        ]
+    },
+    "items": [
+        {
+            "id": "1",
+            "geometry": {
+                "coordinates": [
+                    -74.0,
+                    40.73
+                ]
+            },
+            "properties": {
+                "tag": {
+                    "topic": [
+                        "disaster"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "2",
+            "geometry": {
+                "coordinates": [
+                    -74.0,
+                    40.73
+                ]
+            },
+            "properties": {
+                "tag": {
+                    "topic": [
+                        "refugee"
+                    ]
+                }
+            }
+        },
+        {
+            "id": "3",
+            "geometry": {
+                "coordinates": [
+                    -74.0,
+                    40.73
+                ]
+            },
+            "properties": {
+                "tag": {
+                    "topic": [
+                        "conflict"
+                    ]
+                }
+            }
+        }
+    ]
+}

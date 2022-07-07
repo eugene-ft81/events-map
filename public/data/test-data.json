@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "geometry": {
+            "coordinates": [
+                52.536131,
+                13.447444
+            ]
+        },
+        "properties": {
+            "tag": {
+                "topic": [
+                    "disaster"
+                ]
+            }
+        }
+    }
+]
